@@ -1,12 +1,26 @@
-O download do projeto juntamente com as tarefas documentadas poderão ser clonados através da url:
 
-httpsgithub.combrunogsiqChallenges.git
+
+  Olá, Me chamo Bruno G. Siqueira, e assim como indicado, encaminho meu teste para dar seguimento no processo para vaga mencionada.
+
+
+Atento as seguintes observações:
+
+O download do projeto juntamente com as tarefas documentadas poderão ser clonados através da url, sendo necessário te o git instalado:
+
+https://github.com/brunogsiq/Challenges.git
+
+GitHub - brunogsiq/Challenges
+Contribute to brunogsiq/Challenges development by creating an account on GitHub.
+github.com
+
+Poderá ser visualizado também através do link: 
+https://drive.google.com/drive/folders/14gHs4h9obCTNnPWYrGm_RfQDY9lonw70?usp=sharing
 
 Para que seja visualizada a automação será necessário seguir os passos da url abaixo e instalçação da dependência waitUntil
 
-/* 
+/*
 Para realizar a instalação do Cypress é necessário ter o Node.js instalado
-    Após instalação e ciente de que estão configurados na váriaveis de ambiente, 
+    Após instalação e ciente de que estão configurados na váriaveis de ambiente,
         Utilizaremos o terminal de comando para instalação.
 
 Para iniciar o projeto, será necessário abrir uma pasta, e utilizando o VsCode, navegar até a mesma.
@@ -23,7 +37,7 @@ Utilizando o seguinte comando:
 Para verificar a versão do mesmo, será digitado no prompt de comando o seguinte comando
     npm -v
         Para verificação do node package manager
-    node -v 
+    node -v
         Para verificação do node.js
 
 Após será necessário instalar o cypress e suas dependências dentro do projeto através do comando:
@@ -46,3 +60,15 @@ Possíveis erros e suas correções:
 
 Instalação e como usar: https://www.npmjs.com/package/cypress-wait-until
     npm install -D cypress-wait-until
+
+
+  Segue minhas redes sociais para conexão:
+https://www.linkedin.com/in/brunogsiq
+https://brunogsiq.github.io
+https://github.com/BrunoGSiq
+https://linktr.ee/brunogsiq                
+
+  Um abraço, tenha ótimo dia, e obrigado.
+
+  Atenciosamente,
+
